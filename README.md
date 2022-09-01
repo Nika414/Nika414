@@ -13,6 +13,6 @@ VSCode, HTML, CSS, JavaScript, React, Git, Figma
 
 ### Контакты✨
 * E-mail: nika.kuleva@yandex.ru
-* Telegram: nikapaist
+* Telegram: @nikapaist
 * Телефон: 89112157354
 * LinkedIn: www.linkedin.com/in/veronika-paist
