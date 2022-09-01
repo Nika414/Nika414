@@ -1,4 +1,4 @@
-### Привет! Я Вероника✨
+# Привет! Я Вероника✨
 
 Начинающий frontend-разработчик, с опытом реализации учебных проектов на JS/React.
 
@@ -11,7 +11,7 @@
 # Стек✨
 VSCode, HTML, CSS, JavaScript, React, Git, Figma
 
-# Контакты
+# Контакты✨
 * E-mail: nika.kuleva@yandex.ru
 * Telegram: nikapaist
 * Телефон: 89112157354
