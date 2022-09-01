@@ -11,6 +11,11 @@
 # Стек✨
 VSCode, HTML, CSS, JavaScript, React, Git, Figma,
 
+# Контакты
+* E-mail: nika.kuleva@yandex.ru
+* Telegram: nikapaist
+* Телефон: 89112157354
+
 
 
 
