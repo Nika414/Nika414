@@ -9,7 +9,7 @@
 * Постоянное развитие и познание нового, ведь технологии не стоят на месте.
 
 ### Стек✨
-VSCode, HTML, CSS, JavaScript, React, Git, Figma
+VSCode, HTML, CSS, JavaScript, React, Git, Figma, Node.js
 
 ### Контакты✨
 * E-mail: nika.kuleva@yandex.ru
