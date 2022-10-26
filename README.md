@@ -1,18 +1,20 @@
-# Привет! Я Вероника✨
+# Hi! I'm Veronica✨
 
-Начинающий frontend-разработчик, с опытом реализации учебных проектов на JS/React.
+I'm passionate about Frontend development, but especially I'm in love with React!
 
-Для меня веб-разработка - это:
+I first thought about web development, participating in It-related projects as HR. 
+First of all, web-development attracts me with the opportunity to influence the visual component of web applications. 
+I find it essential to create not only more convenient, but also intuitive user interfaces.
 
-* Возможность влиять на визуальную составляющую веб-приложений;
-* Создание удобных, интуитивно понятных пользовательских интерфейсов;
-* Постоянное развитие и познание нового, ведь технологии не стоят на месте.
+* spent approx. 850 hours on studying and practicing frontend development over past 6 months
+* solve at least 2-3 katas on codewars **every day**
+* turned my Notion page into React encyclopedia
 
-### Стек✨
-VSCode, HTML, CSS, JavaScript, React, Git, Figma, Node.js
+### Stack✨
+JavaScript, React, VSCode, HTML, CSS, Git, Figma, Node.js
 
-### Контакты✨
+### Contacts✨
 * E-mail: nika.kuleva@yandex.ru
 * Telegram: @nikapaist
-* Телефон: 89112157354
+* Mobile: 89112157354
 * LinkedIn: www.linkedin.com/in/veronika-paist
