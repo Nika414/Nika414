@@ -8,7 +8,7 @@ I find it essential to create not only more convenient, but also intuitive user 
 
 * spent approx. 850 hours on studying and practicing frontend development over past 6 months
 * solve at least 2-3 katas on codewars **every day**
-* turned my Notion page into React encyclopedia
+* turned my Notion account into React encyclopedia
 
 ### Stack✨
 JavaScript, React, VSCode, HTML, CSS, Git, Figma, Node.js
