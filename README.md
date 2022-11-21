@@ -10,10 +10,10 @@ I find it essential to create not only more convenient, but also intuitive user 
 * Resolving 1-2 katas on codewars **daily**;
 * turned my Notion account into Frontend encyclopedia
 
-### Stack✨
+### Stack
 JavaScript, React, HTML, CSS, Git, Figma, Node.js
 
-### Contacts✨
+### Contacts
 * E-mail: nika.kuleva@yandex.ru
 * Telegram: @nikapaist
 * Mobile: 89112157354
