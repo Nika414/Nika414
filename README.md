@@ -11,7 +11,7 @@ I find it essential to create not only more convenient, but also intuitive user 
 * turned my Notion account into Frontend encyclopedia
 
 ### Stack✨
-JavaScript, React, VSCode, HTML, CSS, Git, Figma, Node.js
+JavaScript, React, HTML, CSS, Git, Figma, Node.js
 
 ### Contacts✨
 * E-mail: nika.kuleva@yandex.ru
