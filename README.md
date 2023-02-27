@@ -6,7 +6,7 @@ Web development attracts me with the opportunity to influence the visual compone
 I find it essential to create not only more convenient, but also intuitive user interfaces.
 
 ### Stack
-JavaScript, React, HTML, CSS, Git, Figma, Node.js
+JavaScript, React, Redux, HTML, CSS, Git, Figma, Node.js, express.js, MongoDB
 
 ### Contacts
 * E-mail: nika.kuleva@yandex.ru
