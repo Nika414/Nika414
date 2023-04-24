@@ -1,10 +1,5 @@
 # Hi! I'm Veronica✨
 
-I'm passionate about Frontend development, but especially I'm in love with **React**!
-
-Web development attracts me with the opportunity to influence the visual component of web applications. 
-I find it essential to create not only more convenient, but also intuitive user interfaces.
-
 ### Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 
