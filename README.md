@@ -14,5 +14,4 @@
 ### Contacts
 * E-mail: nika.kuleva@yandex.ru
 * Telegram: @nikapaist
-* Mobile: 89112157354
 * LinkedIn: www.linkedin.com/in/veronika-paist
